@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "coppercarts",
+  "version": "1.0.0",
+
+  "name": "Faster Minecarts on Copper Blocks",
+  "description": "Minecarts are faster when moving over rails that are placed on copper blocks.",
+  "authors": ["DahakaMVl"],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "",
+  "icon": "",
+
+  "environment": "*",
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": ">=1.18"
+  }
+}

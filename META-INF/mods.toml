@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="None"
+
+[[mods]]
+modId="coppercarts"
+displayName="coppercarts"
+version="1.0.0"
+description='''
+
+'''
