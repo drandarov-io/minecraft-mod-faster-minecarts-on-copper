@@ -1,7 +1,6 @@
 {
-	"pack":
-	{
-		"pack_format": 8,
-		"description": "Minecarts are faster when moving over rails that are placed on copper blocks."
-	}
+  "pack": {
+    "pack_format": 8,
+    "description": "Minecarts are faster when moving over rails that are placed on copper blocks."
+  }
 }

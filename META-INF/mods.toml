@@ -1,11 +1,12 @@
 modLoader="javafml"
-loaderVersion="[1,)"
-license="None"
+loaderVersion="[39,)"
+license="All rights reserved"
 
 [[mods]]
 modId="coppercarts"
-displayName="coppercarts"
-version="1.0.0"
+version="${file.jarVersion}"
+displayName="Faster Minecarts on Copper Blocks"
+authors="DahakaMVl"
 description='''
-
+Minecarts are faster when moving over rails that are placed on copper blocks.
 '''
